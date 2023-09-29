@@ -1,38 +1,38 @@
 let words = [
     {
-        word:"",
+        word:"champion",
     },
     {
-        word:""
+        word:"conditioning"
     },
     {
-        word:"",
+        word:"defense",
     },
     {
-        word:"",
+        word:"handoff",
     },
     {
-        word:"",
+        word:"kickoff",
     },
     {
-        word:"",
+        word:"offense",
     },
     {
-        word:"",
+        word:"players",
     },
     {
-        word:"",
+        word:"referee",
     },
     {
-        word:"",
+        word:"scrimmage",
     },
     {
-        word:"",
+        word:"tickets",
     },
     {
-        word:"",
+        word:"touchdown",
     },
     {
-        word:"",
+        word:"victory",
     },
 ] 
